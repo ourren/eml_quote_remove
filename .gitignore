@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 
+## Directory-based project format:
+.idea/
+
 # C extensions
 *.so
-.idea/*
 # Distribution / packaging
 .Python
 env/
