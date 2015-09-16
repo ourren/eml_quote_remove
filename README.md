@@ -38,3 +38,7 @@ After used the remove_quote function, the result is shown in the below:
         if ii and not ii.startswith(">") and not ii.endswith("wrote:"):
             ret_str.append(ii)
     print " ".join(ret_str)
+    
+### other library
+
+Found another public project at github: [email-reply-parser](https://github.com/zapier/email-reply-parser). 
